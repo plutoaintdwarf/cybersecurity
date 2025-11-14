@@ -1,2 +1,2 @@
 # Cybersecurity
-Cybersecurity daily projects and notes: 60 days
+Daily Cybersecurity projects and notes: 60 days
